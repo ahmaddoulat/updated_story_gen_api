@@ -1,0 +1,11 @@
+click==7.1.2
+Flask==1.1.1
+importlib-metadata==1.7.0
+inflect==4.1.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pymongo==3.11.0
+storygen==0.5
+Werkzeug==1.0.1
+zipp==3.1.0
